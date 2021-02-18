@@ -1,1 +1,7 @@
-
+Develop a C program that generates the histogram (frequency
+count
+of unique characters in the input text) using multiple threads (thread
+numbers to match with unique character count) , each thread
+performing the
+counting for that respective character. Compare the efficiency of the
+threaded version over its equivalent serial version.
